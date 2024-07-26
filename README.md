@@ -1,5 +1,7 @@
 # playlist
 
+![This is an image](Animation.gif)
+
 ## Project setup
 ```
 npm install
